@@ -1,10 +1,14 @@
 # Git Workflow Cheatsheet
 
-This worksheet is organized around a feature branch workflow.
+This cheat sheet is organized around a feature branch workflow.
 
-The other cheatsheets I'd seen were organized into basic and advanced
-commands but around particular steps in a process. I hope this is more
+The other cheat sheets I'd seen were organized into basic and advanced
+commands but not around particular steps in a process. I hope this is more
 helpful by guiding you to the commands needed in context.
+
+The command options and examples in this are not complete or 'generic'. 
+My goal was to show them in the way they are most commonly used in this 
+workflow.
 
 I drew heavily from 'Git in Practice' by Mike McQuaid, published by Manning
 Publications. I highly recommend it.
